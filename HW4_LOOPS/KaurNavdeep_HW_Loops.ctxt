@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=dna
+comment1.target=java.lang.String\ complement(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getuserdna()
+comment3.params=dna
+comment3.target=boolean\ verify(java.lang.String)
+comment4.params=base\ dna
+comment4.target=int\ getCount(char,\ java.lang.String)
+comment5.params=a\ b\ dna
+comment5.target=double\ calculateRatio(char,\ char,\ java.lang.String)
+comment6.params=
+comment6.target=void\ pairwise()
+comment7.params=dna\ dna2
+comment7.target=void\ alignment(java.lang.String,\ java.lang.String)
+numComments=8

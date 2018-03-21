@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pam()
+comment1.params=var
+comment1.target=int\ translate(char)
+comment2.params=row\ column
+comment2.target=int\ getScore(int,\ int)
+comment3.params=row\ column
+comment3.target=int\ getScoreWithCharacter(char,\ char)
+numComments=4
